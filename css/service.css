@@ -1,0 +1,25 @@
+/*复用样式*/
+#a_active {color:#ec6538!important;font-weight: bold;}
+.pub_2em {text-indent: 2em;}
+
+
+/*银行开户*/
+#bank {overflow: hidden;position: relative;}
+
+/*人事代理*/
+#hr {overflow: hidden;position: relative;}
+#hr .hr_cont2 .hr_Box{overflow: hidden;position: relative;}
+#hr .hr_cont2 .hr_Box h2{font-size: 24px;font-weight: bold;color: #444;line-height: 66px;}
+#hr .hr_cont2 .hr_Box p{font-size: 16px;color: #666;line-height: 27px;}
+
+/*商标注册*/
+#brand {overflow:hidden;position: relative;}
+
+/*公司年检*/
+#check {overflow: hidden;position: relative;}
+#check .pub_line20 li{line-height: 2.5;font-size: 18px;}
+
+#cw {overflow:hidden;position: relative;}
+#cw .hr_cont2 .hr_Box{overflow: hidden;position: relative;}
+#cw .hr_cont2 .hr_Box h2{font-size: 18px;font-weight: bold;color: #444;line-height: 66px;}
+#cw .hr_cont2 .hr_Box p{font-size: 14px;color: #666;line-height: 27px;}
